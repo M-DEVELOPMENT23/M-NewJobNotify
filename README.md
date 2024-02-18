@@ -11,7 +11,7 @@ https://media.discordapp.net/attachments/1207407295034687508/1207407322339614840
 
 # Triggers
 
-TriggerEvent('m:jobnotifyv2:abrirbusiness', 'JobName') 
+```TriggerEvent('m:jobnotifyv2:abrirbusiness', 'JobName') ```
 
-TriggerEvent('m:jobnotifyv2:closebusiness', 'JobName') 
+```TriggerEvent('m:jobnotifyv2:closebusiness', 'JobName') ```
 
