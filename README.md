@@ -29,4 +29,8 @@ Open notification -
 
 
         TriggerEvent('m:jobnotifyv2:opennotification', jobName, text, imageurl, icon, jobcoords, TextFooter) 
-        
+
+Close Notification - 
+
+    TriggerEvent("m:jobnotifyv2:closenotification")
+
