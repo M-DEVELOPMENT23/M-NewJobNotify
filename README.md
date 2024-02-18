@@ -15,3 +15,18 @@ https://media.discordapp.net/attachments/1207407295034687508/1207407322339614840
 
 ```TriggerEvent('m:jobnotifyv2:closebusiness', 'JobName') ```
 
+
+# For Custom Times
+
+Open notification - 
+
+        local jobName = ""
+        local text = ""
+        local icon = ""
+        local TextFooter = ""
+        local imageurl = ""
+        local jobcoords = 
+
+
+        TriggerEvent('m:jobnotifyv2:opennotification', jobName, text, imageurl, icon, jobcoords, TextFooter) 
+        
