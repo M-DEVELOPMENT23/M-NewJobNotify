@@ -18,7 +18,7 @@ https://media.discordapp.net/attachments/1207407295034687508/1207407322339614840
 
 # For Custom Times
 
-Open notification - 
+* Open notification - 
 
         local jobName = ""
         local text = ""
