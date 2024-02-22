@@ -8,7 +8,7 @@
 https://media.discordapp.net/attachments/1207407295034687508/1207407322339614840/code.png?ex=65df88b2&is=65cd13b2&hm=4edee0bb486ec98fb2ae0873f870586382f3f8216f595a4730e660ab87bd6a50&=&format=webp&quality=lossless&width=845&height=671
 
 
-s
+
 # Triggers
 
 ```TriggerEvent('m:jobnotifyv2:abrirbusiness', 'JobName') ```
